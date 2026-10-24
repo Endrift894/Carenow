@@ -131,4 +131,4 @@ MIT License. Free to use and modify. _(Change this if you prefer another license
 
 ## 👤 Author
 
-**Your Name** — [GitHub](https://github.com/your-username)
+**Endrift** — [GitHub](https://github.com/your-username)
